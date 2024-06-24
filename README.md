@@ -15,6 +15,7 @@ Additionally, the program clears the console in-between prompts and locates the 
 
 
 **Sum**
+
 ![image](https://github.com/ksheahen/Add-Two-Integers/assets/112595660/9c04eb50-6d11-4c76-a6d6-8de1df8a1c21)
 
 
